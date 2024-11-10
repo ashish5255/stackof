@@ -17,6 +17,9 @@ const spaceGrotesk = localFont({
 export const metadata: Metadata = {
   title: "Bootleg Overflow",
   description: "Stack Overflow Ripoff",
+  icons: {
+    icon: "/public/images/site-logo.svg",
+  },
 };
 
 export default function RootLayout({
