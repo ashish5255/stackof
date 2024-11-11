@@ -16,7 +16,7 @@ const Navbar = () => {
           alt="Bootleg Overflow Logo"
         ></Image>
         <p className=" h2-bold font-space-grotesk text-dark-100 dark:text-light-900  max-sm:hidden">
-          Bootleg <span className=" text-primary-500">Overflow</span>
+          Boot<span className=" text-primary-500">Overflow</span>
         </p>
       </Link>
 
