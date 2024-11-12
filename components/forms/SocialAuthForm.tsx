@@ -26,7 +26,7 @@ const SocialAuthForm = () => {
           alt="Google logo"
           width={20}
           height={20}
-          className="  mr-2.5 object-contain"
+          className=" mr-2.5 object-contain"
         />
 
         <span>Log in with Google</span>
